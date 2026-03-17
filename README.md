@@ -2,7 +2,7 @@
 
 
 
-A simple Excel-based tool for sending email reports using VBA.
+## A simple Excel-based tool for sending email reports using VBA.
 
 
 
