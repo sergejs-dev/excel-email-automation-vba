@@ -1,4 +1,4 @@
-&#x20;# Excel Email Automation (VBA)
+
 
 
 
@@ -6,129 +6,128 @@ A simple Excel-based tool for sending email reports using VBA.
 
 
 
-\---
 
 
 
-\## Features
+## Features
 
 
 
-\- Send individual email reports  
+- Send individual email reports  
 
-\- Send all reports at once  
+- Send all reports at once  
 
-\- Preview email before sending  
+- Preview email before sending  
 
-\- Clean and user-friendly interface  
+- Clean and user-friendly interface  
 
 
 
-\---
+---
 
 
 
-\## Interface
+## Interface
 
 
 
-!\[Main](screenshots/1.png)
+![Main](screenshots/1.png)
 
 
 
-\---
+---
 
 
 
-\## Send Single Report
+## Send Single Report
 
 
 
-!\[Send](screenshots/2.png)
+![Send](screenshots/2.png)
 
 
 
-\---
+---
 
 
 
-\## Send All Reports
+## Send All Reports
 
 
 
-!\[All](screenshots/3.png)
+![All](screenshots/3.png)
 
 
 
-\---
+---
 
 
 
-\## Preview Email
+## Preview Email
 
 
 
-!\[Preview](screenshots/4.png)
+![Preview](screenshots/4.png)
 
 
 
-\---
+---
 
 
 
-\## How it works
+## How it works
 
 
 
-1\. Enter employee data (Name, Email, Score)  
+1. Enter employee data (Name, Email, Score)  
 
-2\. Use buttons:  
+2. Use buttons:  
 
-&#x20;  - Send report  
+  - Send report  
 
-&#x20;  - Send all reports  
+  - Send all reports  
 
-&#x20;  - Preview email  
+  - Preview email  
 
-3\. Emails are sent via Outlook  
+3. Emails are sent via Outlook  
 
 
 
-\---
+---
 
 
 
-\## Technologies
+## Technologies
 
 
 
-\- Microsoft Excel  
+- Microsoft Excel  
 
-\- VBA (Visual Basic for Applications)  
+- VBA (Visual Basic for Applications)  
 
-\- Outlook Automation  
+- Outlook Automation  
 
 
 
-\---
+---
 
 
 
-\## Notes
+## Notes
 
 
 
-\- Microsoft Outlook must be installed  
+- Microsoft Outlook must be installed  
 
-\- Enable macros in Excel  
+- Enable macros in Excel  
 
 
 
-\---
+---
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -148,17 +147,17 @@ screenshots/
 
 
 
-email\_automation\_demo.xlsm  
+email_automation_demo.xlsm  
 
 README.md  
 
 
 
-\---
+---
 
 
 
-\## Author
+## Author
 
 
 
