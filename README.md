@@ -8,12 +8,7 @@
 ## 📌 Overview
 
 This project demonstrates how to automate email reporting directly from Excel using VBA and Outlook.
-
-It allows users to:
-- Send individual reports
-- Send bulk reports
-- Preview emails  
-
+It provides a simple and efficient way to generate and send report automatically.
 
 
 ## Features
@@ -101,7 +96,11 @@ It allows users to:
 
 
 ---
+ ## ⚠️ Demo Notice
 
+This is a demo project designed to showcase Excel VBA automation skills.
+
+Full email automation (via Outlook or other services) can be implemented and customized depending on business needs. 
 
 
 ## Technologies
