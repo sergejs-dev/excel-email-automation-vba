@@ -5,7 +5,14 @@
 ## A simple Excel-based tool for sending email reports using VBA.
 
 
+## 📌 Overview
 
+This project demonstrates how to automate email reporting directly from Excel using VBA and Outlook.
+
+It allows users to:
+- Send individual reports
+- Send bulk reports
+- Preview emails  
 
 
 
